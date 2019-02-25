@@ -52,7 +52,7 @@ class LandingPage extends Component {
         <div id='#contact' className="contact">
           <h3>Connect with us</h3>
           <a href="https://www.facebook.com/curieuxsgtbkhalsa/?ti=as" target="_blank"><i className="fab fa-facebook-square fa-3x" style = {{color: "#096cee"}}></i></a>
-          <a href="https://instagram.com/lanisterskhalsa?utm_source=ig_profile_share&igshid=1v5t27jsqryb7" target="_blank"><i className="fab fa-instagram fa-3x" style = {{color: "#fb3958"}}></i></a>
+          <a href="https://instagram.com/curieux.sgtbkhalsa?utm_source=ig_profile_share&igshid=6q4bg0oofapm" target="_blank"><i className="fab fa-instagram fa-3x" style = {{color: "#fb3958"}}></i></a>
           
         </div>
 
